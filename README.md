@@ -9,12 +9,13 @@
 ## About Me
 
 ***Hey, I’m @BrandonDigital***
+<br>
 I'm constantly working on multiple projects while trying to maintain my job.₿<br><br>
 
 <details>
   <summary align="center">More about me</summary>
   
-⚡ These are languages and frameworks I mostly use:
+Experience:
   
 - Rust and Anchor framework
 - Solidity(ERC-20, 721, 721A, 1155) to write various contracts
@@ -26,7 +27,8 @@ I'm constantly working on multiple projects while trying to maintain my job.₿<
 </details>
 
 ## Projects Currently working on
-![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
+
+![](https://imgur.com/eQkhE3I/1500x500)
 
 ## Find Me
 
