@@ -1,6 +1,5 @@
 # Profile
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/BrandonDigital?style=social) &nbsp; &nbsp;
