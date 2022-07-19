@@ -72,7 +72,7 @@ I'm constantly working on multiple projects while trying to maintain my job.₿<
 ## Github Stats
 
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandondigital&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical"/>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandondigital&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical"/>
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=brandondigital&sshow_icons=true&theme=radical&count_private=true"/>
 </p>
 <br/>
@@ -83,7 +83,9 @@ I'm constantly working on multiple projects while trying to maintain my job.₿<
 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandondigital&theme=radical" width="375"><br>
 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brandondigital&theme=radical" width="375">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandondigital&theme=radical" width="375"/>
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brandondigital&theme=radical" width="375"/>
   
   ## Github Trophies
 
