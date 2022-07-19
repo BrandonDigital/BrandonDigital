@@ -17,18 +17,12 @@ I'm constantly working on multiple projects while trying to maintain my job.₿<
   
 Experience:
   
-- Rust and Anchor framework
-- Solidity(ERC-20, 721, 721A, 1155) to write various contracts
-- Web3 integration
-- Next.js/Nuxt.js/Angular
-- Node/Python/Go/Ruby/Laravel
-- MongoDB/MySQL/PostgreSQL/Oracle
+- 1.5 years Fivem Development
 
 </details>
 
 ## Projects Currently working on
-
-![](https://imgur.com/eQkhE3I.png)
+![](https://imgur.com/K8ogPSf.png)
 
 ## Find Me
 
