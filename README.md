@@ -8,13 +8,13 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 
-[![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp; &nbsp;
-![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=moonman369.moonman369)<br><br>
+[![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/BrandonDigital?style=social) &nbsp; &nbsp;
+![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=BrandonDigital.BrandonDigital)<br><br>
 
 ## About Me
 
-***Hi, I’m @moonman369***
+***Hey, I’m @BrandonDigital***
 - 🌱 I’m an aspiring **Blockchain Developer** interested in developing smart contracts, application specific blockchains and dApps.
 - ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
 - 🧐 I’m currently learning Solidity, Web3.js and Truffle and looking for more insight in these fields.
