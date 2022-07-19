@@ -1,5 +1,5 @@
 # Profile
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+<i><h2 align="center">"With great power comes great responsibility"</h2></i>
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/BrandonDigital?style=social) &nbsp; &nbsp;
@@ -8,8 +8,24 @@
 ## About Me
 
 ***Hey, I’m @BrandonDigital***
-I'm constantly working on multiple projects while trying to maintain my job.<br><br>
-<!--₿-->
+I'm constantly working on multiple projects while trying to maintain my job.₿<br><br>
+
+<details>
+  <summary align="center">More about me</summary>
+  
+⚡ These are languages and frameworks I mostly use:
+  
+- Rust and Anchor framework
+- Solidity(ERC-20, 721, 721A, 1155) to write various contracts
+- Web3 integration
+- Next.js/Nuxt.js/Angular
+- Node/Python/Go/Ruby/Laravel
+- MongoDB/MySQL/PostgreSQL/Oracle
+
+</details>
+
+## Projects Currently working on
+![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
 
 ## Find Me
 
@@ -57,9 +73,11 @@ I'm constantly working on multiple projects while trying to maintain my job.<br>
 </div><br/><br/>
 
 
-## My Stats
+## Github Stats
 
 <div align="center">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=best-lucky1030&sshow_icons=true&theme=radical&count_private=true">
           
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brandondigital&theme=radical" width="800"><br>
 
