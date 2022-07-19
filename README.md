@@ -28,7 +28,7 @@ Experience:
 
 ## Projects Currently working on
 
-![](https://imgur.com/eQkhE3I/1500x500)
+![](https://imgur.com/eQkhE3I.png)
 
 ## Find Me
 
