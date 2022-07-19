@@ -76,12 +76,15 @@ I'm constantly working on multiple projects while trying to maintain my job.₿<
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=brandondigital&sshow_icons=true&theme=radical&count_private=true"/>
 </p>
 <br/>
-
+<br/>
 <details>
   <summary align="center">More</summary>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brandondigital&theme=radical" width="800"><br>
-
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandondigital&theme=radical" width="375"><br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brandondigital&theme=radical" width="800"/>
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandondigital&theme=radical" width="375"/>
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandondigital&theme=radical" width="375"/>
+    <br>
 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandondigital&theme=radical" width="375"/>
   <br>
