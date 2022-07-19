@@ -8,15 +8,7 @@
 ## About Me
 
 ***Hey, I’m @BrandonDigital***
-- 🌱 I’m an aspiring **Blockchain Developer** interested in developing smart contracts, application specific blockchains and dApps.
-- ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
-- 🧐 I’m currently learning Solidity, Web3.js and Truffle and looking for more insight in these fields.
-- 🚀 I have a basic understanding of Machine Learning and decent Python skills.
-- 💻 I am also an amateur Web Developer looking to transition into Web3 development.
-- 🎆 I have experience in working with blockchain development tools like Hardhat, Truffle, Openzeppelin.
-- 📚 Currently learning JavaScript, HTML5 and CSS3 and other JavaScript frameworks like ReactJS, NextJS, Web3js, Ethersjs.
-- ✨ I have started developing on Cosmos SDK as well.
-- 🖥 Java, C++ are among other languages that I can code in.<br><br>
+I'm constantly working on multiple projects while trying to maintain my job.<br><br>
 <!--₿-->
 
 ## Find Me
@@ -26,7 +18,6 @@
 <a href="mailto:brandon@brandondigitaldesign"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" title="Gmail" width='50'></a>&nbsp;
 <a href="https://twitter.com/brandondigital_"> <img src="https://user-images.githubusercontent.com/100613640/167250432-26046656-736f-4f5d-83a7-7df1d5859a17.png" title="Twitter" width='50'></a>&nbsp;
 <a href="https://www.linkedin.com/in/brandondiehl/"> <img src="https://user-images.githubusercontent.com/100613640/167250457-c7030156-9316-4903-8215-477f2c31990f.png" title="LinkedIn" width='50'></a>&nbsp;
-<a href="https://www.codewars.com/users/moonman369"> <img src="https://docs.codewars.com/logo.svg" title="Codewars" width='50'></a>&nbsp;
 <a href="https://www.hackerrank.com/brandondigital"> <img src="https://user-images.githubusercontent.com/100613640/167250493-d24e9dba-837b-47f5-837b-016a7e83d3a3.png" title="HackerRank" width='50'></a>&nbsp;
 <a href="https://discordapp.com/users/BrandonD#0032"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
 <a href="https://medium.com/@brandon_digital"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp;
