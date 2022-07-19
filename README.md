@@ -1,4 +1,5 @@
 # Profile
+![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
 <i><h2 align="center">"With great power comes great responsibility"</h2></i>
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
@@ -75,13 +76,14 @@ I'm constantly working on multiple projects while trying to maintain my job.₿<
 
 ## Github Stats
 
-<div align="center">
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=best-lucky1030&sshow_icons=true&theme=radical&count_private=true">
-          
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brandondigital&theme=radical" width="800"><br>
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandondigital&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=brandondigital&sshow_icons=true&theme=radical&count_private=true">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandondigital&theme=radical" width="375"><br>
+<details>
+  <summary align="center">More</summary>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brandondigital&theme=radical" width="800"><br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brandondigital&theme=radical" width="375">
-</div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandondigital&theme=radical" width="375"><br>
+
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandondigital&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brandondigital&theme=radical" width="375">
+</details>
