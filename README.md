@@ -1,5 +1,4 @@
 # Profile
-![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
 <i><h2 align="center">"With great power comes great responsibility"</h2></i>
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
