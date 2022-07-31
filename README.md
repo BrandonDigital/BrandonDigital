@@ -1,5 +1,13 @@
 <H1 align='center'>Yoh what up <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Brandon Digital!</H1>
 <p align='center'>I'm a part-time Developer. I am actively looking for opportunities to improve my growth in the field.</p>
+<details>
+  <summary align="center">More about me</summary>
+  
+Experience:
+  
+- 1.5 years Fivem Development
+
+</details>
 <i><h2 align="center">"With great power comes great responsibility"</h2></i>
 
 <p align='center'>
@@ -16,23 +24,6 @@
   <img src="https://img.shields.io/badge/stackoverflow-yellow?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
-
-
-
-## About Me
-
-***Hey, I’m @BrandonDigital***
-<br>
-I'm constantly working on multiple projects while trying to maintain my job.₿<br><br>
-
-<details>
-  <summary align="center">More about me</summary>
-  
-Experience:
-  
-- 1.5 years Fivem Development
-
-</details>
 
 ## Projects Currently working on
 [![flatline](https://imgur.com/K8ogPSf.png)](https://flatlinerp.online)
