@@ -3,23 +3,24 @@
 <i><h2 align="center">"With great power comes great responsibility"</h2></i>
 
 <p align='center'>
-<a href="https://twitter.com/ExplooreX">
+<a href="https://twitter.com/brandondigital_">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:exploorex@gmail.com">
+<a href="mailto:brandon@brandondigital.design">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/davinder-singh-039829210/">
+<a href="https://www.linkedin.com/in/brandondiehl/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14867730/exploore-x/">
+<a href="https://stackoverflow.com/users/19077288/brandondigital">
   <img src="https://img.shields.io/badge/stackoverflow-yellow?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;&nbsp;
-</p>
-
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/BrandonDigital?style=social) &nbsp; &nbsp;
 ![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=BrandonDigital.BrandonDigital)<br><br>
+</p>
+
+
 
 ## About Me
 
@@ -82,10 +83,8 @@ Experience:
 
 ## Github Stats
 
-<p>
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandondigital&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical"/>
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=brandondigital&sshow_icons=true&theme=radical&count_private=true"/>
-</p>
 <br/>
 <br/>
 <details>
