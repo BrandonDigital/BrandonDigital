@@ -108,3 +108,9 @@ Experience:
   <img src="https://github-profile-trophy.vercel.app/?username=brandondigital&theme=juicyfresh&no-frame=false" height=130>
   </div><br/><br/>
 </details>
+
+<div align="center">
+
+### Show some ❤️ by following and ⭐ some of the repositories!
+
+</div>
