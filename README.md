@@ -1,5 +1,21 @@
-# Profile
+<H1 align='center'>Yoh what up <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I am Brandon Digital!</H1>
+<p align='center'>I'm a part-time Developer. I am actively looking for opportunities to improve my growth in the field.</p>
 <i><h2 align="center">"With great power comes great responsibility"</h2></i>
+
+<p align='center'>
+<a href="https://twitter.com/ExplooreX">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:exploorex@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/davinder-singh-039829210/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/14867730/exploore-x/">
+  <img src="https://img.shields.io/badge/stackoverflow-yellow?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>&nbsp;&nbsp;
+</p>
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/BrandonDigital?style=social) &nbsp; &nbsp;
