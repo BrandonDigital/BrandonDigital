@@ -15,7 +15,7 @@
 <a href="https://stackoverflow.com/users/19077288/brandondigital">
   <img src="https://img.shields.io/badge/stackoverflow-yellow?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>&nbsp;&nbsp;
-[![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
+![GITHUB FOLLOWERS](https://img.shields.io/github/followers/BrandonDigital?style=social)](https://github.com/BrandonDigital")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/BrandonDigital?style=social) &nbsp; &nbsp;
 ![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=BrandonDigital.BrandonDigital)<br><br>
 </p>
