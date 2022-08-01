@@ -71,6 +71,8 @@ Experience:
 
 ## Github Stats
 
+![Snake animation](https://github.com/viniarruda/viniarruda/blob/output/github-contribution-grid-snake.svg)
+
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandondigital&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical"/>
 <img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=brandondigital&sshow_icons=true&theme=radical&count_private=true"/>
 <br/>
